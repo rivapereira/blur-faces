@@ -3,6 +3,8 @@ Given with this code is input screen shots (labelled 1,2,3,4,5)  and output shot
 -----------------------------------------------------------------------------------------------------------------------------
 After some trial and error later in life, I prototyped this to work with the user in mind. It now works using the media pipeline with new knowledge learnt. Granted it's not perfect yet, I'm optimizing it in no internet in Mangalore, but it works fine for the most part. It's my first year project a month or two into university.
 
+https://rivapereira123-face-blurring-app.hf.space/?__theme=system&deep_link=72WoKrbf_Lc
+
 # ✅ Current Functionality of My Face Blurring App
 Upload Video Files Directly
 
